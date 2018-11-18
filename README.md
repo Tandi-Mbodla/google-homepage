@@ -1,1 +1,3 @@
 From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+
+The aim of the project was to recreate the Google home page using basic HTML and CSS, while exposing us to browser Dev tools and how they can be used to assist in the development process. The key lessons I learned were how HTML is used for the basic structure of the webpage and how CSS was for the aesthetic. The CSS can get very intricate and stubborn when working with precise values. 
